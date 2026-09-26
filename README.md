@@ -1,4 +1,4 @@
-<div align="center"><br><br>💫 About Me:
+## 💫 About Me:
 <br><br>👋 Hi, I'm Karuna Subedi<br><br>🚀 Currently building AI-driven web apps with FastAPI, Django, and Google Gemini SDK.<br>- 🪖 Developing real-time computer vision models using YOLO, OpenCV, and PyTorch.<br>- 💡 Interested in microservices, generative AI, function calling, and interactive UI dashboards (Streamlit, Tailwind CSS).<br><br><br><br>
 
 ## 🌐 Socials:
